@@ -1,0 +1,24 @@
+                                                                                               PROBLEM-1
+PSEUDO CODE:-
+Write pseudocode and flowchart for a program that outputs ‘True’ if a given number is divisible by 3 and ‘False’ otherwise, without using the ‘%’ operator explicitly (like N % 3 == 0).
+
+#######this program will allow the user to check whether a number is divisible by 3########
+
+
+print"Enter a number"           #it will print "enter the number" in the console
+a = input()        #input number will be stored in variable a as string
+b = length of (a)       #it will count the length of input and store in b
+d = 0
+e = integer(a)        #it will typecast the string into integer
+For i = 1 to range of(a)     #we will run for loop to seperate the digits of a number
+	c = e % 10     #modulo operator will seperate the digit from the number
+	d = d+ c        #it will add the digits of a number
+	e = e/10        
+if "d/3==0"
+      print response 
+       "true"
+else
+     print response 
+     "false"
+
+	
