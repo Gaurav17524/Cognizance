@@ -1,0 +1,14 @@
+#############This program will print the nth fibonacci number###################
+example---------->0,1,1,2,3,5,8,13,21,34,55,89......
+
+print "enter the number"          #it will print "enter the number" on the console
+inp = input()               #it will take user input and store in itself
+a = 0
+b= 1
+c = integer(inp)         #typcasting the user input to the integer
+for i = 0 to range 0f (c-1)         #for loop will run for 0 to c-2
+       d = a +b
+        b = c             #swapping the values of b with c
+        c = d             # swapping the value of c with d
+print value of "d" 
+        
