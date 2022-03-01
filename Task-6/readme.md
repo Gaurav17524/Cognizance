@@ -13,7 +13,7 @@ their company from various cyber attacks***
 ***In future AVARTUM pvt. ltd promises Investment in a scalable, high-bandwidth network infrastructure. Developing an infrastructure capable of providing enhanced security options for sensitive data and enterprise applications will allow employees to collaborate conveniently and securely — anytime, anywhere.***
 
 
-###### Organize a phishing training course. ######
+#### Organize a phishing training course. ####
 ***This provides employees with knowledge about online safety, as well as metrics on how their internet behavior has changed and improved. These forms of training should be performed regularly to keep everybody up-to-date with current data infringement practices which will protect your IP and company data***
 
 ***Our company will Build up a test and sandbox environment for better exposure to the latest cyber threats***
