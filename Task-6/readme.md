@@ -1,4 +1,4 @@
-### Theme ###
+### Theme:- ###
 ***The theme of the task-3 was about the platform for the training of the cyber security professionals and interns.We provide hands-on experience to the professionals to secure 
 their company from various cyber attacks***
 
@@ -9,7 +9,7 @@ their company from various cyber attacks***
 ***They help develop new ways to combat cyber threats, and are the main line of defense against spamming, phishing, malware, viruses and other cybersecurity threats***
 ***Employers typically view certificates as a way to identify job candidates who have specific skill-sets, and obtaining an advanced certificate in cybersecurity can help applicants stand out from the crowd. It can also demonstrate a strong commitment to the profession, which may boost career advancement and earnings potential.***
 
-### future improvements ###
+### future improvements:- ###
 ***In future AVARTUM pvt. ltd promises that Invest in a scalable, high-bandwidth network infrastructure. Developing an infrastructure capable of providing enhanced security options for sensitive data and enterprise applications will allow employees to collaborate conveniently and securely — anytime, anywhere.***
 
 
