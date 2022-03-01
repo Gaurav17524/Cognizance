@@ -10,7 +10,7 @@ their company from various cyber attacks***
 ***Employers typically view certificates as a way to identify job candidates who have specific skill-sets, and obtaining an advanced certificate in cybersecurity can help applicants stand out from the crowd. It can also demonstrate a strong commitment to the profession, which may boost career advancement and earnings potential.***
 
 ### future improvements:- ###
-***In future AVARTUM pvt. ltd promises that Invest in a scalable, high-bandwidth network infrastructure. Developing an infrastructure capable of providing enhanced security options for sensitive data and enterprise applications will allow employees to collaborate conveniently and securely — anytime, anywhere.***
+***In future AVARTUM pvt. ltd promises Investment in a scalable, high-bandwidth network infrastructure. Developing an infrastructure capable of providing enhanced security options for sensitive data and enterprise applications will allow employees to collaborate conveniently and securely — anytime, anywhere.***
 
 
 ###### Organize a phishing training course. ######
