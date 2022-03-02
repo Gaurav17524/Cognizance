@@ -24,7 +24,7 @@
 
 
 
-## future improvements:- ##
+## Future improvements:- ##
 
 
 ***In future AVARTIUM Technology promises Investment in a scalable, high-bandwidth network infrastructure. Developing an infrastructure capable of providing enhanced security training for sensitive data and enterprise applications will allow employees to collaborate conveniently and securely — anytime, anywhere.***
