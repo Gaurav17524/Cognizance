@@ -1,19 +1,36 @@
 ## Theme:- ##
-***The theme of the task-3 was about the platform for the training of the cyber security professionals and interns.We provide hands-on experience to the professionals to secure 
-their company from various cyber attacks***
+
+
+***The theme of the landing page was about the cyber security training company to provide taining for the cyber security professionals and interns.We provide hands-on experience to the professionals to secure their company from various cyber attacks. The IT sector of India has become the hub for technological innovations. With the advent of globalisation, majority of the Indian businesses are depended on online sources for their business. Indians are now using the internet for different needs, ranging from shopping, banking, studying, and storing data on clouds. With the increase in the same, the number of cybercrime rates has also increased. Thus, small and big companies are searching for young professionals who have sufficient cyber security training to prevent such malicious activities.***
+
+
 
 ## Motivation:- ##
-#### Emerging Threats in Cybersecurity ####
-***Where are criminal hackers launching their cyberattacks, and how should we defend against them? For those interested in a cybersecurity career, Dr. Ramesh Agrawal offers a primer on the principal threat areas.***
-***Ramesh, a computer science professor at Dalhousie University, cites five primary threat areas: mobile technology, ransomware, internet-enabled appliances and electronics, big data, and the human factor. It’s easier to con people through social engineering tactics and psychological manipulation (e.g., the human factor) than through hacking, Dr. Sampalli says.***
-***They help develop new ways to combat cyber threats, and are the main line of defense against spamming, phishing, malware, viruses and other cybersecurity threats***
+
+
+***The exponential growth of the Internet interconnections has led to a significant growth of cyber attack incidents often with disastrous and grievous consequences.The development of more innovative and effective malware defense mechanisms has been regarded as an urgent requirement in the cybersecurity community.They help develop new ways to combat cyber threats, and are the main line of defense against spamming, phishing, malware, viruses and other cybersecurity threats***
+
+#### Here are some of the cyber security challenges faced in india:- ####
+
+###### Lack of national cyber security norms ###### 
+***Although different guidelines for cyber security training programs have been made up and are being implemented in different institutes, there’s no specific guideline related to the same. Unlike the other educational sector, no national or standard curriculum has been established for imparting education related to cyber security training in India. Although a few positions have been created towards this cause on the national platform, it is still a long way down the line.***
+
+###### No awareness among young Indians ######
+***As there is no national regulatory policy for cybersecurity training, there is a high lack of awareness among a huge Indian mind. Netizens are not aware of the basic ways to protect their data and legal frameworks. Although India has a big IT workforce, only a few are completely aware of the cyber security threats and prevention techniques that must be incorporated.***
+***At AVARTIUM Technology, we have partnered with MIT to provide excellent cyber security training to young individuals. We provide dual certification from some of the renowned Indian and Israeli experts on different norms of cyber security training. For receiving cyber security training, join us. Check our website for more details.***
+***Dr.Ramesh Agrawal, a computer science professor at MIT University, cites five primary threat areas: mobile technology, ransomware, internet-enabled appliances and electronics, big data, and the human factor. It’s easier to con people through social engineering tactics and psychological manipulation (e.g., the human factor) than through hacking, Dr.Ramesh says.***
+
 ***Employers typically view certificates as a way to identify job candidates who have specific skill-sets, and obtaining an advanced certificate in cybersecurity can help applicants stand out from the crowd. It can also demonstrate a strong commitment to the profession, which may boost career advancement and earnings potential.***
 
+
+
 ## future improvements:- ##
-***In future AVARTUM pvt. ltd promises Investment in a scalable, high-bandwidth network infrastructure. Developing an infrastructure capable of providing enhanced security options for sensitive data and enterprise applications will allow employees to collaborate conveniently and securely — anytime, anywhere.***
 
 
-#### Organize a phishing training course. ####
+***In future AVARTIUM Technology promises Investment in a scalable, high-bandwidth network infrastructure. Developing an infrastructure capable of providing enhanced security training for sensitive data and enterprise applications will allow employees to collaborate conveniently and securely — anytime, anywhere.***
+
+###### Organize advance phishing and Social engineering training course. ######
+
 ***This provides employees with knowledge about online safety, as well as metrics on how their internet behavior has changed and improved. These forms of training should be performed regularly to keep everybody up-to-date with current data infringement practices which will protect your IP and company data***
-
-***Our company will Build up a test and sandbox environment for better exposure to the latest cyber threats***
+***Our company will Build up more advance test and sandbox environment for better exposure to the latest cyber threats in the upcoming future***
+***Company is aiming to launch the training course for the complete Beginners with Hands-on training and proper task assignments,Practical implementation to get better exposure in the cyber security domain***
